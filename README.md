@@ -10,7 +10,7 @@ A simple Python CLI tool to detect file type using magic bytes (file headers), c
 
 ## Usage
 ```bash
-python3 file_type_identifier.py /path/to/file
-python3 file_type_identifier.py suspicious.jpg --show-bytes
-python3 file_type_identifier.py archive.docx
+python file_type_identifier.py /path/to/file
+python file_type_identifier.py suspicious.jpg --show-bytes
+python file_type_identifier.py archive.docx
 
