@@ -8,9 +8,19 @@ A simple Python CLI tool to detect file type using magic bytes (file headers), c
 - Small signature database included (JPG, PNG, PDF, EXE, ZIP, etc).
 - Optional MD5 and SHA256 generation.
 
+## Tech stack
+- Language: Python (stdlib only)
+- Libraries: os, sys, argparse, hashlib.
+- Signature DB: dictionary inside the script
+
+## Contributing
+- Feel free to open issues or pull requests. Expand the signature DB or add a GUI/CI.  
+
 ## Usage
 ```bash
 python file_type_identifier.py /path/to/file
 python file_type_identifier.py suspicious.jpg --show-bytes
 python file_type_identifier.py archive.docx
+
+
 
