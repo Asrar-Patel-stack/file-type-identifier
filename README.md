@@ -54,7 +54,14 @@ The internal database includes **magic byte signatures** for over **15 common fi
 - Hash-based verification enhances detection reliability and supports integration with threat intelligence databases.
 
 ---
-  
+## 🚀 How to Run This Project
+
+**1. Clone the repository:**
+```bash
+git clone https://github.com/Asrar-Patel-stack/file-type-identifier.git
+cd file-type-identifier  
+
+**2. Create and activate a virtual environment:**
 
 ## Usage
 ```bash
