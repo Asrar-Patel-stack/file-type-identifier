@@ -61,7 +61,9 @@ The internal database includes **magic byte signatures** for over **15 common fi
 git clone https://github.com/Asrar-Patel-stack/file-type-identifier.git
 cd file-type-identifier  
 
-**2. Create and activate a virtual environment:**
+---
+
+**2. Clone the repository:**
 
 ## Usage
 ```bash
