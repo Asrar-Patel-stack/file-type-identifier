@@ -107,9 +107,10 @@ python file_type_identifier.py archive.docx
 ---
 
 ## 👤 Author & Contact
-**Asrarahamed Patel**
-Cybersecurity Analyst.
-📧 Email: asrarahamedpatel@gmail.com.
+## 👤 Author & Contact
+**Asrarahamed Patel** — *Cybersecurity Analyst*  
+📧 [asrarahamedpatel@gmail.com](mailto:asrarahamedpatel@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/asrarahamed-patel-003450387)  
 🐙 [GitHub](https://github.com/Asrar-Patel-stack/file-type-identifier)
+
 
